@@ -1,11 +1,11 @@
-# ASFV-risk-mapping
-R script for the risk mapping report of ASFV virus
+# Arbovirus-risk-mapping
+R script for the risk mapping report of an arbovirus
 
-This repository contains the R script and associated input/output files used for the spatial risk mapping analysis of African swine fever virus (ASFV) distribution in Europe.
+This repository contains the R script and associated input/output files used for the spatial risk mapping analysis Arbovirus distribution in Europe.
 
 ## Repository content
 
-- `01_ASFV_risk_mapping_script.R`: main R script used to run the analysis
+- `01Arbovirus_risk_mapping.R`: main R script used to run the analysis
 - `AUC_value_replicates.csv`: AUC values obtained for the different model replicates
 - Environmental raster layers used as predictors
 - Study area shapefiles
@@ -23,7 +23,7 @@ The analysis is based on:
 
 ## Objective
 
-The objective of this work is to model the potential distribution of ASFV in Europe and to identify areas presenting higher environmental suitability for virus presence.
+The objective of this work is to model the potential distribution of Arbovirus in Europe and to identify areas presenting higher environmental suitability for virus presence.
 
 ## Outputs
 
